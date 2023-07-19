@@ -1,0 +1,20 @@
+{
+  "name": "pwa-texteditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saloni0412/PWA-TextEditor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saloni0412/PWA-TextEditor/issues"
+  },
+  "homepage": "https://github.com/Saloni0412/PWA-TextEditor#readme"
+}
