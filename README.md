@@ -33,16 +33,15 @@ Feel free to explore and leverage these technologies to extend and customize the
 ## Installation
 
 To install this application you will need to download NODE JS and npm packages. Once downloaded clone this repository to your local machine, run command npm install/ npm i express which will install all express dependencies. You must also use below npm packages.
-``   
-* npm install express (express.js)
-* npm install --save-dev webpack (Webpack)
-* npm install webpack-dev-server --save-dev (webpack-dev-server)
-* npm install --save-dev webpack-pwa-manifest (WebpackPwaManifest)
-* npm install babel (Babel)
-* npm install --save-dev css-loader (CSS-loader)
-* npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
-* npm npm install idb (IndexedDB)
-  `` 
+  
+`` * npm install express (express.js)``
+``* npm install --save-dev webpack (Webpack)``
+``* npm install webpack-dev-server --save-dev (webpack-dev-server)``
+``* npm install --save-dev webpack-pwa-manifest (WebpackPwaManifest)``
+``* npm install babel (Babel)``
+``* npm install --save-dev css-loader (CSS-loader)``
+``* npm install concurrently --save (run multiple commands concurrently.) (Concurrently)``
+``* npm npm install idb (IndexedDB)`` 
 - To start the app you can use comment "npm run start"
 
 
