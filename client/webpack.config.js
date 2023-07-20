@@ -14,7 +14,6 @@ module.exports = () => {
       filename: '[name].bundle.js',
       path: path.resolve(__dirname, 'dist'),
     },
-    // TODO: Add and configure workbox plugins for a service worker and manifest file.
 
     plugins: [
       // Webpack plugin that generates our html file and injects our bundles.
