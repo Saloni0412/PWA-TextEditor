@@ -48,7 +48,8 @@ To install this application you will need to download NODE JS and npm packages. 
 
 ## Usage
 
-Once the app is running in nodeJS then open ``http://localhost:3001/`` in any browser, and you will have your text editor. You can download the text editor using the ``install`` button on top-left and you will be able to access it offline, You can save the data and close the app, once you open the app again you will find your content as you left before. Please feel free to use the app - <a href="https://ancient-eyrie-56589-14193d3f402a.herokuapp.com/" target="_blank">Link to the app</a>
+Once the app is running in nodeJS then open ``http://localhost:3001/`` in any browser, and you will have your text editor. You can download the text editor using the ``install`` button on top-left and you will be able to access it offline, You can save the data and close the app, once you open the app again you will find your content as you left before. The screenshot for the project is mentioned below. Please feel free to use the app - <a href="https://ancient-eyrie-56589-14193d3f402a.herokuapp.com/" target="_blank">Link to the app</a>
+![Photo of the project](./client/src/css/asset/Screenshot%202023-07-23%20201539.png)
 
 
 
